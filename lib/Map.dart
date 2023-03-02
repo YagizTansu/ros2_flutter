@@ -91,7 +91,7 @@ class _MapPageState extends State<MapPage> {
                   height: 800,
                   width: 800,
                   child: SvgPicture.asset(
-                    'images/map.svg',
+                    'assets/images/map.svg',
                     fit: BoxFit.contain,
                   ),
                 ),
