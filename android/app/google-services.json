@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "109488680522",
+    "firebase_url": "https://ros2flutter-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ros2flutter",
+    "storage_bucket": "ros2flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109488680522:android:dc4f8895420b4bbdd800b3",
+        "android_client_info": {
+          "package_name": "com.example.ros2_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109488680522-fl8ehvk43t4sp20sg9ha8gu0072dgbec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1TesLXX6oK_Kxq7EHF48rb9Y_YZ5dp-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109488680522-fl8ehvk43t4sp20sg9ha8gu0072dgbec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
